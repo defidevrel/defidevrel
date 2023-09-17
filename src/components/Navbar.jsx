@@ -4,9 +4,9 @@ import { GhIcon } from "../assets/Icons";
 const Navbar = () => {
   return (
     <>
-      <main className="">
+      <main className="bg-[#0504AA]">
         <header
-          className={`fixed z-40 top-0 md:relative bg-[#061417]/90 pb-3 md:bg-transparent w-full scroll:bg-black pt-[20px] px-[32px] md:py-[30px] lg:px-[80px]`}
+          className={`fixed z-40 top-0 md:relative bg-[#0504AA]/90 pb-3 md:bg-transparent w-full scroll:bg-black pt-[20px] px-[32px] md:py-[30px] lg:px-[80px]`}
         >
           <nav className={`flex items-center justify-between`}>
             {/* <h2
@@ -23,13 +23,13 @@ const Navbar = () => {
                       : "text-white hover:before:w-full"
                   } relative`}
                 >
-                  VickyJay<span>.</span>
+                  DefiDevrel<span></span>
                 </div>
               )}
             </NavLink>
-            <div className="text-[#FFFFFF99] hover:text-white transition-all duration-300">
+            <div className="text-white hover:text-white transition-all duration-300">
               <a
-                href="https://www.github.com/victorola-coder"
+                href="https://www.github.com/Elishaokon13"
                 target="_blank"
                 rel="noreferrer"
               >

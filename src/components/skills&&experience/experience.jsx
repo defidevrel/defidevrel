@@ -28,7 +28,7 @@ const Experience = () => {
           </p>
         </div>
         <div className="flex lg:justify-between mt-[30px]">
-          <div className="w-0.5 h-[740px] bg-[#1ED7601A]"></div>
+          <div className="w-0.5 h-[740px] bg-[#0504AA1A]"></div>
           <div className={`flex flex-col space-y-[60px]`}>
             <div className="flex gap-[38px] lg:gap-[48px]">
               <div className="relative">
@@ -45,7 +45,7 @@ const Experience = () => {
                   </span>
                 </h3>
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#0504AA] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   Showmeelove
                 </p>
@@ -73,7 +73,7 @@ const Experience = () => {
                   </span>
                 </h3>
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#0504AA] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   Krubbs
                 </p>
@@ -102,7 +102,7 @@ const Experience = () => {
                   </span>
                 </h3>
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#0504AA] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   TekArt
                 </p>
@@ -127,7 +127,7 @@ const Experience = () => {
                   Web Developer
                 </h3>
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#0504AA] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   FLowday
                 </p>
@@ -152,7 +152,7 @@ const Experience = () => {
                   Web Developer
                 </h3>
                 <p
-                  className={`text-[#1ED760] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
+                  className={`text-[#0504AA] font-semibold md:mt-[10px] text-[18px] leading-[27px]`}
                 >
                   Edukarma
                 </p>

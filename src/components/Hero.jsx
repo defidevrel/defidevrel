@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
-import { FbIcon, IgIcon, InIcon, TwIcon } from "../assets/Icons";
-import hero from "../assets/images/hero.png";
+import { FbIcon, GhIcon, IgIcon, InIcon, TwIcon } from "../assets/Icons";
+import hero from "../assets/images/hero.jpg";
 
 const Hero = () => {
   return (
@@ -10,30 +10,26 @@ const Hero = () => {
           <div>
             <div className={`gradientText`}>
               <h1
-              // className={`font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#CFFAFF] md:leading-[4 5px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px] `}
+             // className={`font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#CFFAFF] md:leading-[4 5px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px] `}
               >
-                Creative Frontend Developer<span>.</span>
+                DefiDevrel<span> Blockchain Developer.</span>
               </h1>
             </div>
             <p
-              className={`gradientText font-medium font-pop text-[15px] text-[#FFFFFF99] max-w-[353px] mt-[45px] md:mt-8 lg:mt-1 md:max-w-[639px] md:text-[18px] leading-md:[27px]`}
+              className={`gradientText font-medium font-pop text-[15px] text-[#000000] max-w-[353px] mt-[45px] md:mt-8 lg:mt-1 md:max-w-[639px] md:text-[18px] leading-md:[27px]`}
             >
-              I like to craft solid and scalable frontend products with great
-              user experiences.
+              Experienced Blockchain Developer skilled in simplifying complex concepts. With a strong background in blockchain and quantitative trading, I deliver comprehensive documentation, user-centric platforms, and cutting-edge solutions.
             </p>
             <div
               id="intro"
-              className="text-[#F0FEFF] font-pop flex-shrink-0 text-[.9em] leading-[1.5] font-medium mt-[40px] flex flex-col gap-8 md:flex md:flex-col md:gap-[20px] md:mt-[45px] lg:flex lg:flex-row lg:items-start lg:gap-[12px]"
+              className="text-[#000000] font-pop flex-shrink-0 text-[.9em] leading-[1.5] font-medium mt-[40px] flex flex-col gap-8 md:flex md:flex-col md:gap-[20px] md:mt-[45px] lg:flex lg:flex-row lg:items-start lg:gap-[12px]"
             >
-              <p className={`max-w-[310px]`}>
-                1+ Years of experience. Specialized in building products, while
-                ensuring a seamless web experience for clients across africa.
-              </p>
-              <p className={`max-w-[319px]`}>
-                Highly skilled at progressive enhancement, design systems & UI
-                Engineering - performance and scalability are top objectives on
-                my radar.
-              </p>
+              <button className="bg-[#0504AA] text-white px-[20px] py-[10px] rounded-[5px] font-medium text-[15px] md:text-[18px] lg:text-[15px] lg:px-[20px] lg:py-[10px] lg:rounded-[5px]">
+                <a href="https://docs.google.com/document/d/1PcHC5x0U0FyVN9CzeDxa5GD0h4XnqSyiihfdPvT0qyE/edit?usp=sharing">Resume</a>
+              </button>
+              <button className="bg-[#0504AA] text-white px-[20px] py-[10px] rounded-[5px] font-medium text-[15px] md:text-[18px] lg:text-[15px] lg:px-[20px] lg:py-[10px] lg:rounded-[5px]">
+                <a href="#projects">Projects</a>
+              </button>
             </div>
             <div className="mt-[35px] md:mt-[65px] flex justify-start items-center  gap-[26px] md:gap-[40px]">
               <motion.a
@@ -45,8 +41,8 @@ const Hero = () => {
                 className={`h-auto w-auto`}
               >
                 <FbIcon
-                  fill={`#1ED760`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-white`}
+                  fill={`#0504AA`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#0504AA] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-white`}
                 />
               </motion.a>
               <motion.a
@@ -58,8 +54,8 @@ const Hero = () => {
                 className={`h-auto w-auto`}
               >
                 <TwIcon
-                  fill={`#1ED760`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-1  transition-all duration-500 hover:bg-white`}
+                  fill={`#0504AA`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#0504AA] border-solid border-[2px] p-1  transition-all duration-500 hover:bg-white`}
                 />
               </motion.a>
               <motion.a
@@ -71,8 +67,8 @@ const Hero = () => {
                 className={`h-auto w-auto`}
               >
                 <IgIcon
-                  fill={`#1ED760`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-white`}
+                  fill={`#0504AA`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#0504AA] border-solid border-[2px] p-0.5  transition-all duration-500 hover:bg-white`}
                 />
               </motion.a>
               <motion.a
@@ -84,8 +80,8 @@ const Hero = () => {
                 className={`h-auto w-auto`}
               >
                 <InIcon
-                  fill={`#1ED760`}
-                  className={`w-[30px] h-[30px] rounded-full border-[#1ED760] border-solid border-[2px] p-0.5  transition-all duration-700 hover:bg-white`}
+                  fill={`#0504AA`}
+                  className={`w-[30px] h-[30px] rounded-full border-[#0504AA] border-solid border-[2px] p-0.5  transition-all duration-700 hover:bg-white`}
                 />
               </motion.a>
             </div>
@@ -101,7 +97,7 @@ const Hero = () => {
                 />
               </div>
               <motion.div
-                className={`shrink-0 w-[300px] h-[300px] lg:min-w-[400px] lg:min-h-[400px] border-[3px] border-[#1ED760]`}
+                className={`shrink-0 w-[300px] h-[300px] lg:min-w-[400px] lg:min-h-[400px] border-[3px] border-[#0504AA]`}
               ></motion.div>
             </div>
           </div>
@@ -116,7 +112,7 @@ const Hero = () => {
                 />
               </motion.div>
               <div
-                className={`max-w-[330px] min-h-[330px] md:w-[200px] lg:min-w-[512px] lg:min-h-[512px] border-[#1ED760] border-[3px] border-solid`}
+                className={`max-w-[330px] min-h-[330px] md:w-[200px] lg:min-w-[512px] lg:min-h-[512px] border-[#0504AA] border-[3px] border-solid`}
               ></div>
             </div>
           </div> */}

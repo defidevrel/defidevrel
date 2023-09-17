@@ -18,9 +18,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   /* background-color: #0a1c20; */
-  background-color: #061417;
+  background-color: #ffffff;
   /* background-color: black; */
-  color: white;
+  color: #0504AA;
   font-family: "Poppins", sans-serif;
   /* @apply lg:px-[50%]; */
 }
@@ -122,12 +122,12 @@ html {
 
 .gradientText h1 {
   @apply font-clashbold font-semibold text-[40px] leading-[36.9px] text-[#CFFAFF] md:leading-[45px] md:text-[35px] md:max-w-max lg:leading-[73.8px] lg:max-w-[580px] lg:text-[60px];
-  color: rgba(255, 255, 255, 0);
+  color: #0504AA;
   text-transform: capitalize;
 }
 
 .gradientText h2 {
-  color: rgba(255, 255, 255, 0);
+  color: #0504AA;
   text-transform: capitalize;
 
   @apply flex items-center font-clashbold font-semibold text-white text-[20px] leading-[30.75px] lg:text-[60px] lg:leading-[73.8px];
