@@ -50,13 +50,15 @@ If your team ships **developer-facing software**, I can meet developers where th
 
 ## GitHub activity
 
+<!-- github-readme-stats.vercel.app is paused (503); using community mirror -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=defidevrel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.shion.dev/api?username=defidevrel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=defidevrel&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defidevrel&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=defidevrel&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
