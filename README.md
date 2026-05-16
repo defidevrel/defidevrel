@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  📍 Nigeria · Open to remote DevRel, ecosystem &amp; developer-experience roles
+  📍 Open to remote DevRel, ecosystem &amp; developer-experience roles
 </p>
 
 ---
