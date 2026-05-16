@@ -58,7 +58,7 @@ If your team ships **developer-facing software**, I can meet developers where th
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=defidevrel&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=defidevrel&layout=compact&hide_border=true&langs_count=8&hide=html&exclude_repo=dep-graph-test-for-composio,defillama-server,safecon-landing-page,V2,Lustro-Estate,real-estate,landingpage,Landing" alt="Top languages" />
 </p>
 
 ---
