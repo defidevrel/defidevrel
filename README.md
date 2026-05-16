@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elisha David 👋</h1>
 
 <p align="center">
-  <strong>DevRel Advocate</strong> · Web3 &amp; Base ecosystem · Developer tools, demos &amp; OSS
+  <strong>DevRel Advocate</strong> · Web3 · Developer tools, demos &amp; OSS
 </p>
 
 <p align="center">
@@ -19,12 +19,12 @@
 
 ## About me
 
-I help developers **build, ship, and learn** in Web3 — with a focus on **Base**, smart contracts, and modern dev tooling. I create **demos, CLIs, skills libraries, and open source** that other builders can actually use.
+I help developers **build, ship, and learn** — across **Web3, AI, and modern developer tooling**. I create **demos, CLIs, skills libraries, and open source** that teams and communities can actually adopt.
 
-- 🎤 DevRel — workshops, docs, and community-facing developer content  
-- ⛓️ **Base / Ethereum** — account abstraction, onchain apps, gas &amp; tooling  
-- 🤖 **AI × dev workflows** — Claude Code skills, agents, and shipping velocity  
-- 🛠️ TypeScript, Solidity, Python  
+- 🎤 **DevRel** — workshops, docs, sample apps, and community-facing developer content  
+- ⛓️ **Web3** — smart contracts, onchain apps, wallets, DeFi, and cross-chain tooling  
+- 🤖 **AI × engineering** — agent skills, Claude Code workflows, and shipping velocity for dev teams  
+- 🛠️ **Stack** — TypeScript, Solidity, Python, Go  
 
 ---
 
@@ -36,10 +36,10 @@ I help developers **build, ship, and learn** in Web3 — with a focus on **Base*
 | [**vibetime**](https://github.com/defidevrel/vibetime) | Track what you ship with AI — no config, no account |
 | [**ccwrapped**](https://github.com/defidevrel/ccwrapped) | Your year with Claude Code — sessions, tools &amp; streaks, visualized |
 | [**MoltScore**](https://github.com/defidevrel/MoltScore) | Agent reputation &amp; identity for the open agent economy |
-| [**openclaw-skills**](https://github.com/defidevrel/openclaw-skills) | Skill library for AI agents — Polymarket, DeFi, automation &amp; more |
-| [**basenode-cli**](https://github.com/defidevrel/basenode-cli) | CLI for Base node &amp; builder workflows |
-| [**onchainkit-demo**](https://github.com/defidevrel/onchainkit-demo) | OnchainKit demos for Base builders |
+| [**openclaw-skills**](https://github.com/defidevrel/openclaw-skills) | Skill library for AI agents — trading, DeFi, automation &amp; more |
+| [**ChainPulse**](https://github.com/defidevrel/ChainPulse) | Real-time onchain price monitoring with Chainlink oracles |
 | [**Gas-Trackrr**](https://github.com/defidevrel/Gas-Trackrr) | Track and compare gas across chains |
+| [**onchainkit-demo**](https://github.com/defidevrel/onchainkit-demo) | Reference demos for building onchain apps with modern Web3 SDKs |
 
 ---
 
