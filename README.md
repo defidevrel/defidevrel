@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elisha David 👋</h1>
 
 <p align="center">
-  <strong>Developer Advocate · DevRel</strong> · Demos, docs, OSS &amp; community
+  <strong>Developer Advocate · DevRel</strong> · Demos, docs, OSS &amp; developer experience
 </p>
 
 <p align="center">
@@ -12,20 +12,24 @@
 </p>
 
 <p align="center">
-  📍 Open to remote DevRel, developer experience &amp; ecosystem roles
+  📍 Open to remote DevRel, developer advocacy &amp; developer-experience roles
 </p>
 
 ---
 
 ## About me
 
-I help developers **discover, adopt, and succeed** with great products — through **clear docs, hands-on demos, sample apps, and open source**. I work at the intersection of engineering, education, and community.
+I help developers **understand products, ship faster, and build with confidence** — whether that’s a new API, a CLI, an SDK, AI tooling, or an entire platform.
 
-- 🎤 **Developer advocacy** — talks, tutorials, workshops, and launch content  
-- 📖 **Developer experience** — docs, quickstarts, and reducing time-to-first-success  
-- 🧪 **Show, don't tell** — reference apps, CLIs, and reproducible examples  
-- 🤝 **Community** — feedback loops between builders and product teams  
-- 🛠️ Comfortable across the stack — APIs, frontends, backends, cloud, and emerging platforms  
+I’m a **generalist DevRel**: tutorials, sample apps, workshops, technical content, and open source that makes the developer journey shorter.
+
+- 🎤 **Advocacy** — docs, demos, talks, and community programs  
+- 🧰 **Builder** — CLIs, starter kits, integrations, and reference implementations  
+- 🤖 **AI &amp; modern DX** — agent skills, Claude Code workflows, productivity tooling  
+- ⛓️ **Distributed systems &amp; Web3** — when the product calls for it (not the only thing I do)  
+- 🛠️ **Comfortable across stacks** — TypeScript, Python, Go, Solidity, React, and more  
+
+If your team ships **developer-facing software**, I can meet developers where they are and help them succeed.
 
 ---
 
@@ -33,14 +37,14 @@ I help developers **discover, adopt, and succeed** with great products — throu
 
 | Project | What it is |
 |--------|------------|
-| [**career-ops**](https://github.com/defidevrel/career-ops) | AI-powered job search toolkit — skills, dashboard, PDF export |
-| [**vibetime**](https://github.com/defidevrel/vibetime) | Track what you ship with AI — lightweight, no setup |
-| [**ccwrapped**](https://github.com/defidevrel/ccwrapped) | Developer analytics &amp; year-in-review for Claude Code users |
-| [**MoltScore**](https://github.com/defidevrel/MoltScore) | Reputation &amp; identity layer for software agents |
-| [**openclaw-skills**](https://github.com/defidevrel/openclaw-skills) | Extensible skill library for AI agents &amp; automation |
-| [**ChainPulse**](https://github.com/defidevrel/ChainPulse) | Real-time data monitoring &amp; alerting for developers |
-| [**Gas-Trackrr**](https://github.com/defidevrel/Gas-Trackrr) | Cross-platform utility for comparing operational costs |
-| [**onchainkit-demo**](https://github.com/defidevrel/onchainkit-demo) | SDK demo suite — patterns for integrating complex APIs |
+| [**career-ops**](https://github.com/defidevrel/career-ops) | AI-powered job search on Claude Code — skills, Go dashboard, PDF export |
+| [**vibetime**](https://github.com/defidevrel/vibetime) | Track what you ship with AI — no config, no account |
+| [**ccwrapped**](https://github.com/defidevrel/ccwrapped) | Your year with Claude Code — sessions, tools &amp; streaks, visualized |
+| [**basenode-cli**](https://github.com/defidevrel/basenode-cli) | CLI for node operators and builders — ship faster from the terminal |
+| [**MoltScore**](https://github.com/defidevrel/MoltScore) | Reputation &amp; identity layer for AI agents |
+| [**openclaw-skills**](https://github.com/defidevrel/openclaw-skills) | Extensible skill library for AI agents — automation, integrations &amp; more |
+| [**onchainkit-demo**](https://github.com/defidevrel/onchainkit-demo) | End-to-end sample apps for onchain product integrations |
+| [**Gas-Trackrr**](https://github.com/defidevrel/Gas-Trackrr) | Compare gas and transaction costs across networks |
 
 ---
 
@@ -61,8 +65,9 @@ I help developers **discover, adopt, and succeed** with great products — throu
 
 - 🌐 **Portfolio:** [defidevrel.xyz](https://www.defidevrel.xyz)  
 - 🐦 **X:** [@defidevrel](https://twitter.com/defidevrel)  
+- 🟣 **Farcaster:** [warpcast.com/defidevrel](https://warpcast.com/defidevrel)  
 - 📫 **Email:** [eliscodavid@gmail.com](mailto:eliscodavid@gmail.com)  
 
 <p align="center">
-  <i>If it helps developers ship faster, I'm interested.</i>
+  <i>Helping developers win — whatever they’re building.</i>
 </p>
