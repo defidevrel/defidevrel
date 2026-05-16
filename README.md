@@ -1,51 +1,68 @@
-# VickyJay - Personal Portfolio Website
+<h1 align="center">Hi, I'm Elisha David 👋</h1>
 
-![VickyJay's Portfolio Screenshot](./src/assets/images/cover.png)
+<p align="center">
+  <strong>DevRel Advocate</strong> · Web3 &amp; Base ecosystem · Developer tools, demos &amp; OSS
+</p>
 
-Welcome to my personal portfolio! This project showcases my frontend development skills and projects I've worked on. Feel free to explore the different sections to learn more about me and my work.
+<p align="center">
+  <a href="https://www.defidevrel.xyz">Website</a> ·
+  <a href="https://twitter.com/defidevrel">X</a> ·
+  <a href="https://warpcast.com/defidevrel">Warpcast</a> ·
+  <a href="https://github.com/defidevrel">GitHub</a>
+</p>
 
-## Technologies Used
+<p align="center">
+  📍 Nigeria · Open to remote DevRel, ecosystem &amp; developer-experience roles
+</p>
 
-- React.js: A popular JavaScript library for building user interfaces.
-- Tailwind CSS: A utility-first CSS framework for rapidly styling web applications.
-- React Router: A library for managing routing and navigation in a React application.
-- Framer Motion: A motion library for creating smooth animations and transitions.
-- React Icons: A library providing a wide range of icons for your projects.
+---
 
-## Features
+## About me
 
-- Responsive design: The portfolio is fully responsive to ensure a seamless experience on different devices.
-- Smooth animations: Framer Motion is used to add elegant animations and transitions.
-- Easy navigation: React Router allows for smooth navigation between different sections of the portfolio.
-- Project showcase: A dedicated section to showcase my projects with descriptions and links.
-- Contact information: Users can easily get in touch with me through provided contact details.
+I help developers **build, ship, and learn** in Web3 — with a focus on **Base**, smart contracts, and modern dev tooling. I create **demos, CLIs, skills libraries, and open source** that other builders can actually use.
 
-## Installation and Setup
+- 🎤 DevRel — workshops, docs, and community-facing developer content  
+- ⛓️ **Base / Ethereum** — account abstraction, onchain apps, gas &amp; tooling  
+- 🤖 **AI × dev workflows** — Claude Code skills, agents, and shipping velocity  
+- 🛠️ TypeScript, Solidity, Python  
 
-1. Clone this repository to your local machine using `git clone`.
-2. Navigate to the project directory: `cd vickyjay`.
-3. Install project dependencies using `npm install`.
-4. Start the development server: `npm start`.
-5. Open your web browser and navigate to `http://localhost:5173` to view the portfolio.
+---
 
-## Usage
+## Featured projects
 
-Feel free to customize this portfolio to showcase your own projects and skills. Update the project descriptions, images, and links to match your work.
+| Project | What it is |
+|--------|------------|
+| [**career-ops**](https://github.com/defidevrel/career-ops) | AI-powered job search on Claude Code — skills, Go dashboard, PDF export |
+| [**vibetime**](https://github.com/defidevrel/vibetime) | Track what you ship with AI — no config, no account |
+| [**ccwrapped**](https://github.com/defidevrel/ccwrapped) | Your year with Claude Code — sessions, tools &amp; streaks, visualized |
+| [**MoltScore**](https://github.com/defidevrel/MoltScore) | Agent reputation &amp; identity for the open agent economy |
+| [**openclaw-skills**](https://github.com/defidevrel/openclaw-skills) | Skill library for AI agents — Polymarket, DeFi, automation &amp; more |
+| [**basenode-cli**](https://github.com/defidevrel/basenode-cli) | CLI for Base node &amp; builder workflows |
+| [**onchainkit-demo**](https://github.com/defidevrel/onchainkit-demo) | OnchainKit demos for Base builders |
+| [**Gas-Trackrr**](https://github.com/defidevrel/Gas-Trackrr) | Track and compare gas across chains |
 
-## Contact
+---
 
-If you have any questions or would like to get in touch, you can reach me at:
+## GitHub activity
 
-- Email: victoluolatunji@gmail.com
-- GitHub: [Vitorola-coder](https://github.com/Victorla-coder)
-- Portfolio: [preview](https://www.vickyjay.dev)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=defidevrel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=defidevrel&hide_border=true" alt="GitHub streak" height="165" />
+</p>
 
-Thank you for visiting my portfolio!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defidevrel&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
 
-## Todos
+---
 
-- add few sleazy animation.
-- change the experience section into an array and map it.
-- change the services section into an array and map it.
-- 404 page - done ✔✔
-- more features yet to come.
+## Let's connect
+
+- 🌐 **Portfolio:** [defidevrel.xyz](https://www.defidevrel.xyz)  
+- 🐦 **X:** [@defidevrel](https://twitter.com/defidevrel)  
+- 🟣 **Farcaster:** [warpcast.com/defidevrel](https://warpcast.com/defidevrel)  
+- 📫 **Email:** [eliscodavid@gmail.com](mailto:eliscodavid@gmail.com)  
+
+<p align="center">
+  <i>Building in public — one demo, one repo, one builder at a time.</i>
+</p>
