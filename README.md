@@ -21,8 +21,6 @@
 
 I help developers **understand products, ship faster, and build with confidence** — whether that’s a new API, a CLI, an SDK, AI tooling, or an entire platform.
 
-I’m a **generalist DevRel**: tutorials, sample apps, workshops, technical content, and open source that makes the developer journey shorter.
-
 - 🎤 **Advocacy** — docs, demos, talks, and community programs  
 - 🧰 **Builder** — CLIs, starter kits, integrations, and reference implementations  
 - 🤖 **AI &amp; modern DX** — agent skills, Claude Code workflows, productivity tooling  
