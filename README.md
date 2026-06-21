@@ -18,7 +18,7 @@
 
 I help developers ship faster — through docs, demos, talks, and tools. TypeScript, React, Solidity, AI/agent tooling, and onchain (Base, CDP, OnchainKit).
 
-**Path:** frontend &amp; smart contracts → CTO (multi-chain DEX) → community DevRel (hackathons across Africa) → **Coinbase** (UXR → CDP &amp; Base West Africa DevRel). Now building and open to what's next.
+**Path:** frontend &amp; smart contracts → CTO (multi-chain DEX) → DevRel  → **Coinbase** (UXR → CDP &amp; Base West Africa DevRel). Now building and open to what's next.
 
 ---
 
