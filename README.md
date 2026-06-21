@@ -37,6 +37,7 @@ I help developers ship faster — through docs, demos, talks, and tools. TypeScr
 | | |
 |---|---|
 | [**ccwrapped**](https://ccwrapped.defidevrel.xyz) | Claude Code Wrapped — sessions &amp; streaks, visualized |
+| [**polymarket-rs-sdk**](https://github.com/defidevrel/polymarket-rs-sdk) | Unified Polymarket Rust SDK |
 | [**MoltScore**](https://moltscore.xyz) | Reputation layer for AI agents on Base |
 | [**bankrbot-mcp**](https://www.npmjs.com/package/bankrbot-mcp) | Bankr MCP for Cursor &amp; Claude |
 | [**career-ops**](https://github.com/defidevrel/career-ops) | AI job search on Claude Code |
