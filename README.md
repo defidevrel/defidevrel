@@ -10,7 +10,7 @@
   <a href="https://github.com/defidevrel">GitHub</a>
 </p>
 
-<p align="center">📍 Open to DevRel &amp; developer-experience roles</p>
+<p align="center">📍 Open to DevRel &amp; Software Engineering roles roles</p>
 
 ---
 
